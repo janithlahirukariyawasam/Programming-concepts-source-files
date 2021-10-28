@@ -1,0 +1,10 @@
+a) Write a definition for t. --> t[2][5]
+b) How many rows does t have?  --> 2
+c) How many columns does t have? --> 5
+d) How many elements does t have? --> 10
+e) Write the names of all the elements in the second row of t. 
+    t[1][0] t[1][1] t[1][2] t[1][3] t[1][4]
+f) Write the names of all the elements in the third column of t. 
+    t[0][2] t[1][2]
+g) Write a single statement that sets the element of t in row 1 and column 2 to zero. 
+    T[0][1] = 2 ;
